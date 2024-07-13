@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+survived,"Indica se o passageiro sobreviveu (0 = Não, 1 = Sim)",quantitativa,discreta
+pclass,"Classe do bilhete (1 = 1ª classe, 2 = 2ª classe, 3 = 3ª classe)",qualitativa,ordinal
+sex,Sexo do passageiro,qualitativa,nominal
+age,Idade do passageiro,quantitativa,contínua
+sibsp,Número de irmãos/cônjuges a bordo,quantitativa,discreta
+parch,Número de pais/filhos a bordo,quantitativa,discreta
+fare,Tarifa do passageiro,quantitativa,contínua
+embarked,Porto de embarque (C = Cherbourg; Q = Queenstown; S = Southampton),qualitativa,nominal
+class,"Classe (First, Second, Third)",qualitativa,nominal
